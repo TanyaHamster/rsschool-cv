@@ -1,0 +1,50 @@
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+.align {
+ text-align: center;
+}
+
+.flex {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.sizephoto {
+    width: 250px;
+}
+
+.sizeicon {
+    width: 100px;
+}
+
+.color {
+    background-color: #d3d3d3;
+}
+
+.border {
+    margin-right: 50px;
+}
+
+.footer {
+    display: flex;
+justify-content: space-around;
+align-items: center;
+margin-bottom: 100px;
+font-size: medium;
+}
+
+.main {
+    margin-bottom: 50px;
+    border-style: solid;
+    font-size: large;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
